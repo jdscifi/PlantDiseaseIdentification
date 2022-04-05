@@ -1,0 +1,26 @@
+Class,Precision,Recall,Fscore,Support
+Apple Black Rot,0.9090909090909091,1.0,0.9523809523809523,10
+Apple Cedar Apple Rust,1.0,0.9,0.9473684210526316,10
+Apple Healthy,1.0,1.0,1.0,10
+Apple Scab,1.0,1.0,1.0,10
+Corn Maize Cercospora Leaf Spot Gray Leaf Spot,1.0,0.8,0.888888888888889,10
+Corn Maize Common Rust,1.0,1.0,1.0,10
+Corn Maize Healthy,1.0,1.0,1.0,10
+Corn Maize Northern Leaf Blight,0.8333333333333334,1.0,0.9090909090909091,10
+Grape Black Rot,1.0,1.0,1.0,10
+Grape Esca Black Measles,1.0,1.0,1.0,10
+Grape Healthy,1.0,1.0,1.0,10
+Grape Leaf Blight Isariopsis Leaf Spot,1.0,1.0,1.0,10
+Potato Early Blight,1.0,1.0,1.0,10
+Potato Healthy,1.0,1.0,1.0,10
+Potato Late Blight,1.0,1.0,1.0,10
+Tomato Bacterial Spot,0.9,0.9,0.9,10
+Tomato Early Blight,0.6923076923076923,0.9,0.7826086956521738,10
+Tomato Healthy,1.0,1.0,1.0,10
+Tomato Late Blight,0.8888888888888888,0.8,0.8421052631578948,10
+Tomato Leaf Mold,1.0,1.0,1.0,10
+Tomato Mosaic Virus,1.0,0.9,0.9473684210526316,10
+Tomato Septoria Leaf Spot,0.9,0.9,0.9,10
+Tomato Spider Mites Two-Spotted Spider Mite,1.0,1.0,1.0,10
+Tomato Target Spot,1.0,0.9,0.9473684210526316,10
+Tomato Yellow Leaf Curl Virus,1.0,1.0,1.0,10
