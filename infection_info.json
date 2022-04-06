@@ -1,0 +1,89 @@
+[
+  {
+    "id": 0 , "disease": "Apple black rot",
+    "solution": "You should immediately prune all the infected parts of the tree and either burn or get rid of them as quickly as possible. You may spray with sulfur or an appropriate fungicide in the early stages of the disease."
+  },
+  {
+    "id": 0 ,
+    "disease": "Apple scab",
+    "solution": "Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores. For best control, spray liquid copper soap early, two weeks before symptoms normally appear. Alternatively, begin applications when disease first appears, and repeat at 7 to 10 day intervals up to blossom drop."
+  },
+  {
+    "id": 0 , "disease": "Apple cedar rust",
+    "solution": "Rake up and dispose of fallen leaves and other debris from under trees or apply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host. This occurs only once per year, so additional applications after this springtime spread are not necessary."
+  },
+  {
+    "id": 0 ,
+    "disease": "Corn Common rust",
+    "solution": "The best management practice is to use resistant corn hybrids. Fungicides can also be beneficial, especially if applied early when few pustules have appeared on the leaves."
+  },
+  {
+    "id": 0 ,
+    "disease": "Corn Gray leaf spot ",
+    "solution": "In general, azoxystrobin, pyraclostrobin, or fluoxastrobin applications will control gray leaf spot for 28 days. The other three fungicides will control the disease for 14 days. Irrigate according to label directions after application of granular products."
+  },
+  {
+    "id": 0 , "disease": "Corn northen leaf blight",
+    "solution": "When you grow corn, make sure it does not stay wet for long periods of time. The fungus that causes this infection needs between six and 18 hours of leaf wetness to develop. Plant corn with enough space for airflow and water in the morning so leaves can dry throughout the day."
+  },
+  {
+    "id": 0 , "disease": "Grape black rot",
+    "solution": "Infected prunings and mummified berries should be removed, burned, and/or buried in the soil before new growth begins in the spring or early season fungicide sprays should be timed to prevent the earliest infections."
+  },
+  {
+    "id": 0 , "disease": "Grape leaf blight",
+    "solution": "Apply dormant sprays to reduce inoculum levels."
+  },
+  {
+    "id": 0 , "disease": "Grape black measles",
+    "solution": "Lime sulfur sprays can manage the trio of pathogens that cause black measles, also known as young vine decline"
+  },
+  {
+    "id": 0 , "disease": "Potato early blight",
+    "solution": "Treatment of early blight includes prevention by planting potato varieties that are resistant to the disease; late maturing are more resistant than early maturing varieties. Avoid overhead irrigation and allow for sufficient aeration between plants to allow the foliage to dry as quickly as possible."
+  },
+  {
+    "id": 0 , "disease": "Potato late blight",
+    "solution": "Late blight is controlled by eliminating cull piles and volunteer potatoes, using proper harvesting and storage practices, and applying fungicides when necessary."
+  },
+  {
+    "id": 0 , "disease": "Bacterial spot on tomato",
+    "solution": "A plant with bacterial spot cannot be cured.  Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants.  Burn, bury or hot compost the affected plants and DO NOT eat symptomatic fruit. "
+  },
+  {
+    "id": 0 , "disease": "Tomato early blight",
+    "solution": "Tomatoes that have early blight require immediate attention before the disease takes over the plants. Thoroughly spray the plant (bottoms of leaves also) with Bonide Liquid Copper Fungicide concentrate or Bonide Tomato & Vegetable. Both of these treatments are organic."
+  },
+  {
+    "id": 0 , "disease": "Tomato Late Blight",
+    "solution": "Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation or Destroy all tomato and potato debris after harvest."
+  },
+  {
+    "id": 0 , "disease": "Tomato late blight",
+    "solution": "For the home gardener, fungicides that contain maneb, mancozeb, chlorothanolil, or fixed copper can help protect plants from late tomato blight."
+  },
+  {
+    "id": 0 , "disease": "Tomato leaf mold",
+    "solution": "An apple-cider and vinegar mix is believed to treat the mold effectively. Corn and garlic spray can also be used to prevent fungi outbreaks before they even occur. There is also a milk-based spray that is touted as an all-natural, helpful cure for leaf mold."
+  },
+  {
+    "id": 0 , "disease": "Tomato spetoria leaf spot",
+    "solution": "Removing infected leaves. Remove infected leaves immediately, and be sure to wash your hands and pruners thoroughly before working with uninfected plants."
+  },
+  {
+    "id": 0 , "disease": "Tomato spide mites",
+    "solution": "Removing infected leaves. Remove infected leaves immediately, and be sure to wash your hands and pruners thoroughly before working with uninfected plants."
+  },
+  {
+    "id": 0 , "disease": "Tomato target spot",
+    "solution": "Remove old plant debris at the end of the growing season; otherwise, the spores will travel from debris to newly planted tomatoes in the following growing season, thus beginning the disease a new."
+  },
+  {
+    "id": 0 , "disease": "Tomato mosaic virus",
+    "solution": "Once plants are infected, there is no cure for mosaic viruses. Because of this, prevention is key! However, if plants in your garden do show symptoms of having mosaic viruses, here's how to minimize the damage: 'Remove all infected plants and destroy them.'"
+  },
+  {
+    "id": 0 , "disease": "Lear curl virus in tomato",
+    "solution": "Chemical control Imidacloprid should be sprayed on the entire plant and below the leaves; eggs and flies are often found below the leaves. Spray every 14-21 days and rotate on a monthly basis with Abamectin so that the whiteflies do not build-up resistance to chemicals."
+  }
+]
