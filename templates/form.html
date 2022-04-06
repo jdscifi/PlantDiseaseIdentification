@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block content %}
+
+    <head>
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+ <style>
+.form-input {
+  width:350px;
+  padding:20px;
+  background:#fff;
+}
+.form-input input {
+  display:none;
+}
+.form-input label {
+  display:block;
+  width:50%;
+  height:45px;
+  line-height:50px;
+  text-align:center;
+  background:#4d7e03;
+  color:#fff;
+  font-size:15px;
+  font-family:"Open Sans",sans-serif;
+  text-transform:Uppercase;
+  font-weight:600;
+  border-radius:5px;
+  cursor:pointer;
+}
+
+.form-input img {
+  width:100%;
+  display:none;
+  margin-bottom:30px;
+}
+</style>
+
+</head>
+<center>
+    <h1>
+      Upload an image of the leaf of plant<br>
+      that you suspect is infected
+    </h1>
+    <div class="form-input">
+        <div class="preview">
+            <img id="file-ip-1-preview">
+        </div>
+        <label for="file-ip-1">Upload Image</label>
+        <input type="file" id="file-ip-1" accept="image/*" onchange="showPreview(event);">
+    </div>
+
+<script type="text/javascript">
+    function showPreview(event){
+        if(event.target.files.length > 0){
+            const src = URL.createObjectURL(event.target.files[0]);
+            const preview = document.getElementById("file-ip-1-preview");
+            preview.src = src;
+            preview.style.display = "block";
+        }
+    }
+</script>
+</center>
+
+
+{% endblock %}
