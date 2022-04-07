@@ -5,8 +5,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 import tensorflow as tf
 import numpy as np
 import tensorflow_hub as hub
-from flask import Flask, render_template, request, url_for, flash, redirect, jsonify
-from werkzeug.utils import secure_filename
+from flask import Flask, render_template, request,  flash, redirect
 
 tf.get_logger().setLevel('ERROR')
 app = Flask(__name__)
@@ -49,7 +48,7 @@ def file_upload(request):
             return redirect(request.url)
         file = request.files['file']
         if file:
-            filename = secure_filename(file.filename)
+            filename = file.filename
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
             return os.path.join(app.config['UPLOAD_FOLDER'], filename)
 
